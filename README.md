@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | React.js • Node.js • PostgreSQL | Building Scalable Web Applications
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GanjiVenkatRohit&label=Profile views&color=0e75b6&style=flat" alt="GanjiVenkatRohit" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=GanjiVenkatRohit&label=Profile%20Views&color=0e75b6&style=flat)
 
 - 🔭 I'm currently working on **Enterprise Project Management Systems and scalable web applications**
 
